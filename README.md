@@ -13,6 +13,6 @@
 
 Результаты работы программы:
 
-[анимация рассыпания 100000 песчинок](https://github.com/platonoid/Sandbox/blob/3b0d5b2be414043b8f94533214e5ccacf1e00f1f/assets/out.gif) 
+![анимация рассыпания 100000 песчинок](https://github.com/platonoid/Sandbox/blob/3b0d5b2be414043b8f94533214e5ccacf1e00f1f/assets/out.gif) 
 
-[картинка рассыпанных 1000000 песчинок](https://github.com/platonoid/Sandbox/blob/3b0d5b2be414043b8f94533214e5ccacf1e00f1f/assets/file.bmp)
+![картинка рассыпанных 1000000 песчинок](https://github.com/platonoid/Sandbox/blob/3b0d5b2be414043b8f94533214e5ccacf1e00f1f/assets/file.bmp)
