@@ -1,0 +1,6 @@
+add_subdirectory(write_bmp)
+add_subdirectory(vector)
+add_subdirectory(parser)
+add_subdirectory(fileparser)
+add_subdirectory(matrix)
+add_subdirectory(saveintogif)
